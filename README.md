@@ -20,12 +20,12 @@ A simple and user-friendly **ToDo Application** built using **React.js** that he
 
 ## ⚙️ Installation & Setup 
 1. Clone the repository  
-  git clone https://github.com/Likhitha1201/ToDoApp.git
-2. Navigate to project folder
-  cd ToDoApp
-3. Install dependencies
-  npm install
-4. Run the app
-  npm run
+  **git clone https://github.com/Likhitha1201/ToDoApp.git**
+2. Navigate to project folder- 
+  **cd ToDoApp**
+3. Install dependencies- 
+  **npm install**
+4. Run the app- 
+ ** npm run**
 
 

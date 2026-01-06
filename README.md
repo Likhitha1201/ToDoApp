@@ -17,7 +17,10 @@ A simple and user-friendly **ToDo Application** built using **React.js** that he
 - **Language:** JavaScript (ES6)  
 
 ---
+**## Images**
+![ToDo App](todo_look.png)
 
+---
 ## ⚙️ Installation & Setup 
 1. Clone the repository  
 ```bash
@@ -28,7 +31,5 @@ A simple and user-friendly **ToDo Application** built using **React.js** that he
   npm install
 4. Run the app
   npm run
----
-**## Images**
-![ToDo App](todo_look.png)
+
 

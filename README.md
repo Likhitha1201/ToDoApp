@@ -1,6 +1,7 @@
 # 📝 ToDo App
 
 A simple and user-friendly **ToDo Application** built using **React.js** that helps users manage daily tasks efficiently. Users can add, update, delete, and mark tasks as completed.
+
 ## 🚀 Features
 - ➕ Add new tasks  
 - ✏️ Edit existing tasks  
@@ -9,18 +10,14 @@ A simple and user-friendly **ToDo Application** built using **React.js** that he
 - 📱 Responsive UI  
 - 💾 Local state management  
 
----
-
 ## 🛠️ Tech Stack
 - **Frontend:** React.js  
 - **Styling:** CSS / Tailwind CSS  
 - **Language:** JavaScript (ES6)  
 
----
-**## Images**
+## Image
 ![ToDo App](todo_look.png)
 
----
 ## ⚙️ Installation & Setup 
 1. Clone the repository  
 ```bash

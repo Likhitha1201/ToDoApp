@@ -26,6 +26,6 @@ A simple and user-friendly **ToDo Application** built using **React.js** that he
 3. Install dependencies- 
   **npm install**
 4. Run the app- 
- ** npm run**
+   **npm run**
 
 

@@ -30,5 +30,6 @@ A simple and user-friendly **ToDo Application** built using **React.js** that he
   npm run
 
 ## Images
-<img width="804" height="402" alt="image" src="https://github.com/user-attachments/assets/7da92973-ed8b-4974-956a-07b1892de264" />
+![ToDo App](todo_look.png)
+
 

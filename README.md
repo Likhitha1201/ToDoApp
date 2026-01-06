@@ -31,3 +31,7 @@ A simple and user-friendly **ToDo Application** built using **React.js** that he
 
 ## Images
 ![ToDo App](todo_look.png)
+
+
+<img width="804" height="402" alt="image" src="https://github.com/user-attachments/assets/d603d6bb-6918-4ab8-9d73-9d8d1136c980" />
+

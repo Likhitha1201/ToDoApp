@@ -21,10 +21,14 @@ A simple and user-friendly **ToDo Application** built using **React.js** that he
 ## ⚙️ Installation & Setup 
 1. Clone the repository  
 ```bash
-git clone https://github.com/Likhitha1201/ToDoApp.git
-cd ToDoApp
-npm install
-npm run
+  git clone https://github.com/Likhitha1201/ToDoApp.git
+2. Navigate to project folder
+  cd ToDoApp
+3. Install dependencies
+  npm install
+4. Run the app
+  npm run
 
 ## Images
-<img src="public/todo_look.png" width="600"/>
+<img width="804" height="402" alt="image" src="https://github.com/user-attachments/assets/7da92973-ed8b-4974-956a-07b1892de264" />
+
